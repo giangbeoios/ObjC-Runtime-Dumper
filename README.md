@@ -54,25 +54,7 @@ Works well with many games and applications such as:
   </a>
 </p>
 
-## Jailbreak Version
 
-### Requirements
-
-Install tweak:
-
-- PreferenceLoader
-
-Then install the `.deb` package.
-
-After installation:
-
-```text
-Settings -> ObjC Runtime Dumper
-```
-
-You can enable or disable dumping for specific apps directly from Preferences.
-
----
 
 ## Non-Jailbreak Version
 
